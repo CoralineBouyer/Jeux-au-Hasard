@@ -1,0 +1,153 @@
+[
+  {
+    "nom": "La Guerre des Moutons",
+    "img": "https://www.espritjeu.com/upload/image/,la-guerre-des-moutons-p-image-66825-grande.jpg",
+    "court": true,
+    "deux_joueurs": true  
+  },
+  {
+    "nom": "Welcome",
+    "img": "https://www.cdiscount.com/pdt2/0/3/8/1/700x700/auc3770006370038/rw/welcome-to-your-perfect-home-jeux-de-societe-b.jpg",
+    "court": true,
+    "deux_joueurs": true    
+  },
+  {
+    "nom": "MovieLand",
+    "img": "https://www.hachetteheroes.com/sites/default/files/contenus_complementaires/images/9782017095590/00191/9782017095590.PT01.jpg",
+    "court": true,
+    "deux_joueurs": false    
+  },
+  {
+    "nom": "Service Compris",
+    "img": "https://www.espritjeu.com/upload/image/service-compris-p-image-58268-grande.jpg",
+    "court": true,
+    "deux_joueurs": false    
+  },
+  {
+    "nom": "Citadelles",
+    "img": "https://www.goutdujeu.fr/wp-content/uploads/2017/09/citadelles_4eme_edition.jpg",
+    "court": false,
+    "deux_joueurs": false    
+  },
+  {
+    "nom": "Ascension",
+    "img": "https://m.media-amazon.com/images/I/51gPi4enl3L._AC_SX425_.jpg",
+    "court": true,
+    "deux_joueurs": true    
+  },
+  {
+    "nom": "Ascension Collector",
+    "img": "https://cdn.shopify.com/s/files/1/0566/1769/7469/products/10075_Ascension_CE4_Tin_dd93ef39-2229-453a-9f2b-7533f6266fb7.png?v=1633121215",
+    "court": true,
+    "deux_joueurs": true    
+  },
+  {
+    "nom": "Hero Realms",
+    "img": "https://www.iello.fr/sites/default/files/inline-images/Hero%20realms%20%282%29.jpg",
+    "court": true,
+    "deux_joueurs": true    
+  },
+  {
+    "nom": "Star Realms",
+    "img": "https://www.le-passe-temps.com/22234/star-realms-frontieres.jpg",
+    "court": true,
+    "deux_joueurs": true    
+  },
+  {
+    "nom": "Terrors of London",
+    "img": "https://www.espritjeu.com/upload/image/terrors-of-london-vf-p-image-70022-moyenne.jpg",
+    "court": true,
+    "deux_joueurs": true    
+  },
+  {
+    "nom": "Marvel Champions",
+    "img": "https://www.espritjeu.com/upload/image/marvel-champions---le-jeu-de-cartes-p-image-69601-grande.jpg",
+    "court": true,
+    "deux_joueurs": true    
+  },
+  {
+    "nom": "Mystic Vale",
+    "img": "https://cdn3.philibertnet.com/474977-large_default/mystic-vale.jpg",
+    "court": false,
+    "deux_joueurs": true    
+  },
+  {
+    "nom": "Enchanters",
+    "img": "https://i.ytimg.com/vi/0ijaFGJEM64/sddefault.jpg",
+    "court": false,
+    "deux_joueurs": true    
+  },
+  {
+    "nom": "Magic The Gathering",
+    "img": "https://www.cardmarket.com/img/insight/2018/03/1521127489_Ryan%20-%202%20MTG%20Welcome%20Decks.jpg",
+    "court": false,
+    "deux_joueurs": true    
+  },
+  {
+    "nom": "Ankh",
+    "img": "https://cdn2.philibertnet.com/511435-thickbox_default/ankh-les-dieux-d-egypte.jpg",
+    "court": false,
+    "deux_joueurs": true    
+  },
+  {
+    "nom": "Harry Potter: Bataille à Poudlard ",
+    "img": "https://m.media-amazon.com/images/I/91tghOFGBHL._AC_SL1500_.jpg",
+    "court": false,
+    "deux_joueurs": true    
+  },
+  {
+    "nom": "Arkham Horror",
+    "img": "https://cdn3.philibertnet.com/518672-thickbox_default/arkham-horror-the-card-game-revised-core-set.jpg",
+    "court": false,
+    "deux_joueurs": true    
+  },
+  {
+    "nom": "Thunderstone Quest",
+    "img": "https://i2.wp.com/gusandco.net/wp-content/uploads/2019/01/thunderstonequest.png?fit=1053%2C1007",
+    "court": false,
+    "deux_joueurs": true    
+  },
+  {
+    "nom": "Ashes: les héritiers du Phénix",
+    "img": "https://www.lencephalo.com/wp-content/uploads/2017/03/ASH01_Box_3D_Comp_Front_Left.jpg",
+    "court": false,
+    "deux_joueurs": true    
+  },
+  {
+    "nom": "Nemesis",
+    "img": "https://m.media-amazon.com/images/I/81i5ppaknxL._AC_SL1500_.jpg",
+    "court": false,
+    "deux_joueurs": true    
+  },
+  {
+    "nom": "Dune",
+    "img": "https://cdn3.philibertnet.com/453520-large_default/dune-the-boardgame.jpg",
+    "court": false,
+    "deux_joueurs": false    
+  },
+  {
+    "nom": "Dune Imperium",
+    "img": "https://www.toysandgeek.fr/images/2021/07/dune-imperium-3-1.jpg",
+    "court": false,
+    "deux_joueurs": false    
+  },
+  {
+    "nom": "Red Rising",
+    "img": "https://i2.wp.com/gusandco.net/wp-content/uploads/2021/02/Red-Rising.png?fit=768%2C915",
+    "court": true,
+    "deux_joueurs": true    
+  },
+  {
+    "nom": "L'expédition Perdue",
+    "img": "https://www.espritjeu.com/upload/image/l-expedition-perdue-p-image-66650-grande.jpg",
+    "court": true,
+    "deux_joueurs": true    
+  },
+  {
+    "nom": "DC Deckbuilding",
+    "img": "https://cdn1.philibertnet.com/366034-thickbox_default/dc-comics-jeu-de-deck-building-vf.jpg",
+    "court": true,
+    "deux_joueurs": true    
+  }
+]
+
