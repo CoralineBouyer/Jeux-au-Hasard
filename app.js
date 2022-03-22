@@ -17,7 +17,7 @@ const app = {
     },
 
     findData: async function () {
-        const fetchData = await fetch('./data/jeux.json');
+        const fetchData = await fetch('./data/games.json');
         const games = await fetchData.json();
         return games
     },

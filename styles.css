@@ -18,6 +18,14 @@ body {
     
 }
 
+.nous {
+    max-width: 100%;
+    width: 25em;
+    border-radius: 20px;
+    margin: 8px;
+    
+}
+
 .form {
     display: flex;
     flex-direction: column;

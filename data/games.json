@@ -1,0 +1,152 @@
+[
+  {
+    "nom": "La Guerre des Moutons",
+    "img": "data/img/testPA.png",
+    "court": true,
+    "deux_joueurs": true
+  },
+  {
+    "nom": "Welcome",
+    "img": "data/img/testPA.png",
+    "court": true,
+    "deux_joueurs": true
+  },
+  {
+    "nom": "MovieLand",
+    "img": "data/img/testPA.png",
+    "court": true,
+    "deux_joueurs": false
+  },
+  {
+    "nom": "Service Compris",
+    "img": "data/img/testPA.png",
+    "court": true,
+    "deux_joueurs": false
+  },
+  {
+    "nom": "Citadelles",
+    "img": "data/img/testPA.png",
+    "court": false,
+    "deux_joueurs": false
+  },
+  {
+    "nom": "Ascension",
+    "img": "data/img/testPA.png",
+    "court": true,
+    "deux_joueurs": true
+  },
+  {
+    "nom": "Ascension Collector",
+    "img": "data/img/testPA.png",
+    "court": true,
+    "deux_joueurs": true
+  },
+  {
+    "nom": "Hero Realms",
+    "img": "data/img/testPA.png",
+    "court": true,
+    "deux_joueurs": true
+  },
+  {
+    "nom": "Star Realms",
+    "img": "data/img/testPA.png",
+    "court": true,
+    "deux_joueurs": true
+  },
+  {
+    "nom": "Terrors of London",
+    "img": "data/img/testPA.png",
+    "court": true,
+    "deux_joueurs": true
+  },
+  {
+    "nom": "Marvel Champions",
+    "img": "data/img/testPA.png",
+    "court": true,
+    "deux_joueurs": true
+  },
+  {
+    "nom": "Mystic Vale",
+    "img": "data/img/testPA.png",
+    "court": false,
+    "deux_joueurs": true
+  },
+  {
+    "nom": "Enchanters",
+    "img": "data/img/testPA.png",
+    "court": false,
+    "deux_joueurs": true
+  },
+  {
+    "nom": "Magic The Gathering",
+    "img": "data/img/testPA.png",
+    "court": false,
+    "deux_joueurs": true
+  },
+  {
+    "nom": "Ankh",
+    "img": "data/img/testPA.png",
+    "court": false,
+    "deux_joueurs": true
+  },
+  {
+    "nom": "Harry Potter: Bataille à Poudlard ",
+    "img": "data/img/testPA.png",
+    "court": false,
+    "deux_joueurs": true
+  },
+  {
+    "nom": "Arkham Horror",
+    "img": "data/img/testPA.png",
+    "court": false,
+    "deux_joueurs": true
+  },
+  {
+    "nom": "Thunderstone Quest",
+    "img": "data/img/testPA.png",
+    "court": false,
+    "deux_joueurs": true
+  },
+  {
+    "nom": "Ashes: les héritiers du Phénix",
+    "img": "data/img/testPA.png",
+    "court": false,
+    "deux_joueurs": true
+  },
+  {
+    "nom": "Nemesis",
+    "img": "data/img/testPA.png",
+    "court": false,
+    "deux_joueurs": true
+  },
+  {
+    "nom": "Dune",
+    "img": "data/img/testPA.png",
+    "court": false,
+    "deux_joueurs": false
+  },
+  {
+    "nom": "Dune Imperium",
+    "img": "data/img/testPA.png",
+    "court": false,
+    "deux_joueurs": false
+  },
+  {
+    "nom": "Red Rising",
+    "img": "data/img/testPA.png",
+    "court": true,
+    "deux_joueurs": true
+  },
+  {
+    "nom": "L'expédition Perdue",
+    "img": "data/img/testPA.png",
+    "court": true,
+    "deux_joueurs": true
+  },
+  {
+    "nom": "DC Deckbuilding",
+    "img": "data/img/testPA.png",
+    "court": true,
+    "deux_joueurs": true
+  }
+]
