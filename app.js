@@ -1,16 +1,17 @@
 const app = {
 
-    body: document.querySelector('body'),
+    corps: document.querySelector('.game'),
     button: document.querySelector('#button'),
     time: document.querySelector('#time'),
     players: document.querySelector('#players'),
 
     init: function () {
+        app.generateTitle();
         app.button.addEventListener('click', (event) => {
             event.preventDefault();
-            if (document.querySelector('.container')) {
-                document.querySelector('.container').remove()
-            }            
+            if (document.querySelector('.resultContainer')) {
+                document.querySelector('.resultContainer').remove()
+            }
             app.chosenGame()
         })
     },
@@ -28,8 +29,8 @@ const app = {
     // randomGame attend un array en paramètre
     randomGame: async function (games) {
         const container = document.createElement('div');
-        container.classList.add('container');
-        app.body.appendChild(container);        
+        container.classList.add('resultContainer');
+        app.corps.appendChild(container);
         // Je tire au sort l'index
         const index = app.randomIndex(0, games.length);
         // Je fais apparaître le nom dans une div
@@ -59,7 +60,7 @@ const app = {
             console.log("Time coché");
             const gamesList = games.filter((game) => {
                 return (game.court);
-            });            
+            });
             console.log(gamesList);
             app.randomGame(gamesList)
             // Les jeux qui se jouent à deux, de toutes longueurs
@@ -71,10 +72,26 @@ const app = {
             console.log(gamesList);
             app.randomGame(gamesList)
             // Si rien n'est coché, je fais le tirage sur tous les jeux
-        } else { 
+        } else {
             console.log("Rien n'est coché")
             app.randomGame(games)
         }
     },
+
+    generateTitle: function () {
+        // Je récupère l'heure qu'il est pour affichert le titre en fonction
+        const now = new Date();
+        const hour = now.getHours();
+        const title = document.createElement('h1');
+        if (hour > 18) {
+            title.textContent = 'On joue à quoi ce soir ?';
+        } else {
+            title.textContent = 'On joue à quoi aujourd\'hui ?';
+        }
+        app.corps.prepend(title);
+
+    },
 }
-app.init()
+
+
+document.addEventListener('DOMContentLoaded', app.init);

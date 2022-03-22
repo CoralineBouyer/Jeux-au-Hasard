@@ -1,23 +1,75 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@400;600&display=swap');
 
+body {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.game {
+    min-width: 70%;
+    background-color:rgb(240, 228, 119);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 25px;
+    
 }
 
 .form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 
+.input {
+    font-size: 1.3em;
+    padding: 5px;
 }
 
 h1 {
-
+    font-weight: 600;
+    text-shadow: 4px 4px 2px rgba(145, 155, 5, 0.267); 
+    padding-bottom: 20px;
+    border-bottom: dashed 2px  rgba(0, 0, 0, 0.5);
 }
 
-.container {
-
+button:hover {
+    background-color: rgba(224, 26, 198, 0.548);
 }
 
-.choseGame {
+button {
+    font-size: 1.5em; 
+    background-color: rgb(253, 207, 215);
+    padding: 10px;
+    border-radius: 10px;
+    border: solid 3px rgb(196, 187, 187);
+    margin: 10px;
+    box-shadow: 8px 8px 2px 1px rgba(145, 155, 5, 0.267);
+}
 
+input {
+    transform: scale(1.5)
+}
+
+.resultContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.chosenGame {
+    padding-top: 15px;
+    font-size: 2em;
+    font-weight: 600;
+    text-shadow: 4px 4px 2px rgba(145, 155, 5, 0.267); 
+    padding-bottom: 20px;    
 }
 
 .chosenPic {
-    
+    max-width: 100%;
+    width: 25em;
+    /* height: 5em; */
 }

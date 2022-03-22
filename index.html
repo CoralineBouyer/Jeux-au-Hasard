@@ -5,18 +5,24 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="styles.css" rel="stylesheet">
     <title>On joue à quoi ?</title>
 </head>
 
 <body>
-    <h1>On joue à quoi ?</h1>
-    <form action="" class="form">
-        <label for="time">1h ou moins</label>        
-        <input id="time" type="checkbox">
-        <label for="players">Se joue à deux</label>
-        <input id="players" type="checkbox">
-        <button id="button">Au hasard !</button>
-    </form>    
+    <div class="game">
+        <form action="" class="form">
+            <div class="input">
+                <label for="time">1h ou moins</label>
+                <input id="time" type="checkbox">
+            </div>
+            <div class="input">
+                <label for="players">Se joue à deux</label>
+                <input id="players" type="checkbox">
+            </div>
+            <button id="button">Au hasard !</button>
+        </form>
+    </div>
     <script src="./app.js"></script>
 </body>
 
