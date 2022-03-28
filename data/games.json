@@ -1,152 +1,176 @@
 [
   {
     "nom": "La Guerre des Moutons",
-    "img": "data/img/testPA.png",
+    "img": "data/img/moutons.png",
     "court": true,
     "deux_joueurs": true
   },
   {
     "nom": "Welcome",
-    "img": "data/img/testPA.png",
+    "img": "data/img/welcome.png",
     "court": true,
     "deux_joueurs": true
   },
   {
     "nom": "MovieLand",
-    "img": "data/img/testPA.png",
+    "img": "data/img/movieland.png",
     "court": true,
     "deux_joueurs": false
   },
   {
     "nom": "Service Compris",
-    "img": "data/img/testPA.png",
+    "img": "data/img/service.png",
     "court": true,
     "deux_joueurs": false
   },
   {
     "nom": "Citadelles",
-    "img": "data/img/testPA.png",
+    "img": "data/img/citadelles.png",
     "court": false,
     "deux_joueurs": false
   },
   {
     "nom": "Ascension",
-    "img": "data/img/testPA.png",
+    "img": "data/img/ascension.png",
     "court": true,
     "deux_joueurs": true
   },
   {
     "nom": "Ascension Collector",
-    "img": "data/img/testPA.png",
+    "img": "data/img/ascension2.png",
     "court": true,
     "deux_joueurs": true
   },
   {
     "nom": "Hero Realms",
-    "img": "data/img/testPA.png",
+    "img": "data/img/herorealms.png",
     "court": true,
     "deux_joueurs": true
   },
   {
     "nom": "Star Realms",
-    "img": "data/img/testPA.png",
+    "img": "data/img/starrealms.png",
     "court": true,
     "deux_joueurs": true
   },
   {
     "nom": "Terrors of London",
-    "img": "data/img/testPA.png",
+    "img": "data/img/terrors.png",
     "court": true,
     "deux_joueurs": true
   },
   {
     "nom": "Marvel Champions",
-    "img": "data/img/testPA.png",
+    "img": "data/img/marvel.png",
     "court": true,
     "deux_joueurs": true
   },
   {
     "nom": "Mystic Vale",
-    "img": "data/img/testPA.png",
+    "img": "data/img/mystic.png",
     "court": false,
     "deux_joueurs": true
   },
   {
     "nom": "Enchanters",
-    "img": "data/img/testPA.png",
+    "img": "data/img/enchanters.png",
     "court": false,
     "deux_joueurs": true
   },
   {
     "nom": "Magic The Gathering",
-    "img": "data/img/testPA.png",
+    "img": "data/img/magic.png",
     "court": false,
     "deux_joueurs": true
   },
   {
     "nom": "Ankh",
-    "img": "data/img/testPA.png",
+    "img": "data/img/ankh.png",
     "court": false,
     "deux_joueurs": true
   },
   {
     "nom": "Harry Potter: Bataille à Poudlard ",
-    "img": "data/img/testPA.png",
+    "img": "data/img/harrypotter.png",
     "court": false,
     "deux_joueurs": true
   },
   {
     "nom": "Arkham Horror",
-    "img": "data/img/testPA.png",
+    "img": "data/img/arkham.png",
     "court": false,
     "deux_joueurs": true
   },
   {
     "nom": "Thunderstone Quest",
-    "img": "data/img/testPA.png",
+    "img": "data/img/thunderstone.png",
     "court": false,
     "deux_joueurs": true
   },
   {
     "nom": "Ashes: les héritiers du Phénix",
-    "img": "data/img/testPA.png",
+    "img": "data/img/ashes.png",
     "court": false,
     "deux_joueurs": true
   },
   {
     "nom": "Nemesis",
-    "img": "data/img/testPA.png",
+    "img": "data/img/nemesis.png",
     "court": false,
     "deux_joueurs": true
   },
   {
     "nom": "Dune",
-    "img": "data/img/testPA.png",
+    "img": "data/img/dune.png",
     "court": false,
     "deux_joueurs": false
   },
   {
     "nom": "Dune Imperium",
-    "img": "data/img/testPA.png",
+    "img": "data/img/imperium.png",
     "court": false,
     "deux_joueurs": false
   },
   {
     "nom": "Red Rising",
-    "img": "data/img/testPA.png",
+    "img": "data/img/redrising.png",
     "court": true,
     "deux_joueurs": true
   },
   {
     "nom": "L'expédition Perdue",
-    "img": "data/img/testPA.png",
+    "img": "data/img/expedition.png",
     "court": true,
     "deux_joueurs": true
   },
   {
     "nom": "DC Deckbuilding",
-    "img": "data/img/testPA.png",
+    "img": "data/img/dc.png",
     "court": true,
+    "deux_joueurs": true
+  },
+  {
+    "nom": "Res Arcana",
+    "img": "data/img/resarcana.png",
+    "court": true,
+    "deux_joueurs": true
+  },
+  {
+    "nom": "Santorini",
+    "img": "data/img/santorini.png",
+    "court": true,
+    "deux_joueurs": true
+  },
+  {
+    "nom": "Andor",
+    "img": "data/img/andor.png",
+    "court": false,
+    "deux_joueurs": true
+  },
+  {
+    "nom": "Vampires Héritage",
+    "img": "data/img/heritage.png",
+    "court": false,
     "deux_joueurs": true
   }
 ]
